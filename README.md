@@ -8,7 +8,7 @@ Ubuntu 20.04 LTS
 
     sudo apt-get install libssl-dev 
 
-- git clone  https://github.com/JjungminLee/LSP-kathy.git
+- git clone  https://github.com/JjungminLee/linux.git
 
 
 ## P1 : SSU-Backup 
